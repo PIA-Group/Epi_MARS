@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/PIA-Group/Epi_MARS/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+</div>
 <form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -143,7 +143,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   margin-right: 3%;
 }
 </style>
-
+</div>
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
